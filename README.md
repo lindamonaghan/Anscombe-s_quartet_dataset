@@ -11,3 +11,7 @@ Then the dataset is plotted. This shows how once plotted the datasets that seem 
 Following on from this the descriptive statistics of the dataset are investigated.
 
 The repository ends with a conclusion and summary of findings based on the plots and statistics calculated throughout the notebook.
+
+I inculde here as well a link that provides instructions on how to run the a Jupyter Notebook:
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+
